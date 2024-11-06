@@ -34,3 +34,6 @@
 
 - "Outlet" will render the children routes. 
 
+## rafc - react functional component - (ES7 extension)
+
+# 2.00
