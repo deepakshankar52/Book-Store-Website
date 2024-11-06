@@ -28,3 +28,9 @@
 
         npm install react-router-dom
 
+- Create folders like routers, components, pages, redux, utils in "src" folder. 
+- In routers folders, create a file called router.jsx and paste the contents of "Adding a Router" in above specified link.
+- In main.jsx, import the router that we specified. 
+
+- "Outlet" will render the children routes. 
+
