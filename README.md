@@ -9,7 +9,9 @@
 - https://vite.dev/guide/
 
         npm create vite@latest ./
+
     - React
+
     - JavaScript
 
 -        npm install
@@ -19,7 +21,9 @@
 ## Install Tailwind CSS
 
 - Go to tailwind css official website https://tailwindcss.com/ and click "Get Started"
+
 - Reach the "Framework Guides" and select "Vite"
+
 - Skip "Create your project" and execute from step 2. 
 
 ## Install react-router-dom
@@ -34,6 +38,11 @@
 
 - "Outlet" will render the children routes. 
 
-## rafc - react functional component - (ES7 extension)
+- ### rafce - react functional component - (ES7 extension)
 
-# 2.00
+## Use Swiper.js "https://swiperjs.com/get-started"
+
+        npm install swiper
+
+- Use "Responsive Breakpoints" and "Navigation"
+
